@@ -1,0 +1,6 @@
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- vo 包扫描 --> <typeAliases>
+    <package name="sumeng.zhang.vo" /> </typeAliases>
+</configuration>
